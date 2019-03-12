@@ -1,7 +1,7 @@
 /**
  * 兼容ie9的轮播图，用到jquery(ie9 compatible,jQuery required)
  * 使用方法--->(how to use)
- *  1：每个要移动的块加上类名 classTarget 自定义的值即可;(add className 'swiper' to the container div)
+ *  1：轮播图父容器加上类名 classTarget 自定义的值即可;(add className 'swiper' to the container div)
  *  2: 左右箭头分别加上 id 名 leftId 和 rightId 自定义的值即可(bind the id of arrows)
  * 
  * data-pics='4'//number of pics
